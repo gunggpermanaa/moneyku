@@ -189,7 +189,7 @@ Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
   _Coming Soon_
 
 - 📊 **Pitch Deck**  
-  https://www.canva.com/design/DAG9YEoQmb4/8sNEa3CbxZdhsYnu691KiA/edit?utm_content=DAG9YEoQmb4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  (https://drive.google.com/drive/folders/1eeCbhGkCEfHSm-iyJce4dqQWtQqhIrQy?usp=drive_link)
 
 - 🎥 **Video Presentasi**  
   https://drive.google.com/drive/folders/1BlhjlSAqEVDzi-rQ1a_bQuhIpsn8NKYG?usp=drive_link
