@@ -11,7 +11,6 @@ MoneyKu adalah aplikasi pencatatan keuangan pribadi yang membantu pengguna menge
   <img src="https://github.com/user-attachments/assets/19cc2d7a-d90b-4c2c-9b4a-cfa64a75357e" width="130"/>
   <img src="https://github.com/user-attachments/assets/3ac8f8d2-e299-49fd-80db-405c492a29f9" width="130"/>
   <img src="https://github.com/user-attachments/assets/4f2a7b2e-ddea-4563-a45f-18b39bb76646" width="130"/>
-  <img src="https://github.com/user-attachments/assets/REPLACE_WITH_LAST_IMAGE" width="130"/>
 </p>
 
 <p align="center">
@@ -163,6 +162,13 @@ Dashboard **MoneyKu: Catatan Keuanganmu Sehari-hari** menyajikan informasi keuan
 
 ---
 
+## 📄 Lisensi
+
+Proyek ini dibuat untuk keperluan pembelajaran dan pengembangan aplikasi.  
+Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
+
+---
+
 ## 👨‍💻 Pengembang
 
 - AGUNG PERMANA ( 1237050093 )
@@ -172,7 +178,16 @@ Dashboard **MoneyKu: Catatan Keuanganmu Sehari-hari** menyajikan informasi keuan
 
 ---
 
-## 📄 Lisensi
+## 🔗 Link Penting
 
-Proyek ini dibuat untuk keperluan pembelajaran dan pengembangan aplikasi.  
-Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
+- 📝 **Artikel Medium**  
+  https://medium.com/@agunggpermanaofficial/moneyku-604c431f3d62
+
+- 📱 **Aplikasi (Play Store)**  
+  _Coming Soon_
+
+- 📊 **Pitch Deck**  
+  https://www.canva.com/design/DAG9YEoQmb4/8sNEa3CbxZdhsYnu691KiA/edit?utm_content=DAG9YEoQmb4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- 🎥 **Video Presentasi**  
+  https://drive.google.com/drive/folders/1BlhjlSAqEVDzi-rQ1a_bQuhIpsn8NKYG?usp=drive_link
