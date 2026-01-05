@@ -186,7 +186,7 @@ Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
   https://medium.com/@agunggpermanaofficial/moneyku-604c431f3d62
 
 - 📱 **Aplikasi (Play Store)**  
-  _Coming Soon_
+  https://play.google.com/store/apps/details?id=com.moneyku.moneyku
 
 - 📊 **Pitch Deck**  
   (https://drive.google.com/drive/folders/1eeCbhGkCEfHSm-iyJce4dqQWtQqhIrQy?usp=drive_link)
