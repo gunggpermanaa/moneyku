@@ -2,15 +2,17 @@
 
 MoneyKu adalah aplikasi pencatatan keuangan pribadi yang membantu pengguna mengelola pemasukan dan pengeluaran harian secara praktis, terstruktur, dan informatif. Aplikasi ini dirancang untuk meningkatkan kesadaran finansial pengguna melalui pencatatan rutin dan visualisasi data keuangan.
 
----
+
 
 ## 👥 Our Team
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e993515-c397-45f3-97ae-46d44b74c417" width="130"/>
-  <img src="https://github.com/user-attachments/assets/19cc2d7a-d90b-4c2c-9b4a-cfa64a75357e" width="130"/>
-  <img src="https://github.com/user-attachments/assets/3ac8f8d2-e299-49fd-80db-405c492a29f9" width="130"/>
-  <img src="https://github.com/user-attachments/assets/4f2a7b2e-ddea-4563-a45f-18b39bb76646" width="130"/>
+  <img width="130" height="130" alt="profil-photoaidcom-cropped" src="https://github.com/user-attachments/assets/8a1ac0c1-57a6-4833-a60f-e58d868fd108" />
+<img width="130" height="130" alt="WhatsApp Image 2026-01-04 at 16,44,47-photoaidcom-cropped" src="https://github.com/user-attachments/assets/5d71bcac-c009-4592-924b-3a7c03e1b5c7" />
+<img width="130" height="130" alt="WhatsApp Image 2026-01-04 at 16,51,26-photoaidcom-cropped" src="https://github.com/user-attachments/assets/bac3ddf1-7d7e-4c54-9a62-13f5729d35fa" />
+<img width="130" height="130" alt="WhatsApp Image 2026-01-04 at 16,52,27-photoaidcom-cropped" src="https://github.com/user-attachments/assets/c3f55506-51d1-4b9c-948f-caa1fdc2f5db" />
+
+  
 </p>
 
 <p align="center">
@@ -23,7 +25,7 @@ MoneyKu adalah aplikasi pencatatan keuangan pribadi yang membantu pengguna menge
   </a>
 </p>
 
----
+
 
 ## 📌 Latar Belakang Masalah
 
@@ -33,7 +35,7 @@ Di era digital saat ini, aktivitas keuangan menjadi semakin kompleks. Pengeluara
 
 Kondisi tersebut diperparah dengan kurangnya alat bantu yang mudah digunakan, sederhana, dan sesuai dengan kebutuhan pengguna sehari-hari. Oleh karena itu, dibutuhkan sebuah aplikasi yang dapat membantu pengguna dalam mencatat pemasukan dan pengeluaran secara praktis, menampilkan ringkasan keuangan, serta memberikan gambaran kondisi finansial secara jelas. **MoneyKu** hadir sebagai solusi digital untuk membantu pengguna mengelola dan mencatat keuangan harian secara efektif dan efisien.
 
----
+
 
 ## ❗ Identifikasi Masalah
 
@@ -45,7 +47,7 @@ Permasalahan utama yang melatarbelakangi pengembangan aplikasi MoneyKu antara la
 - Kurangnya kesadaran dalam perencanaan keuangan jangka pendek dan panjang
 - Belum tersedianya aplikasi pencatatan keuangan yang sederhana dan mudah digunakan
 
----
+
 
 ## 🛠️ Metode Pendekatan
 
@@ -60,7 +62,7 @@ Tahapan CRISP-DM yang diterapkan meliputi:
 5. **Evaluation** – Mengevaluasi hasil analisis  
 6. **Deployment** – Implementasi hasil analisis ke dalam dashboard aplikasi  
 
----
+
 
 ## 🎯 Tujuan & Kriteria Kesuksesan
 
@@ -74,7 +76,7 @@ Tujuan utama pengembangan aplikasi MoneyKu adalah:
 
 Keberhasilan aplikasi diukur dari kemudahan penggunaan, keakuratan data, serta kemampuan aplikasi dalam membantu pengguna memahami kondisi keuangannya.
 
----
+
 
 ## ⏱️ Timeline Mini Riset
 
@@ -90,7 +92,7 @@ Pengembangan aplikasi MoneyKu mengikuti tahapan berikut:
 - Evaluation  
 - Deployment Dashboard Aplikasi  
 
----
+
 
 ## 📊 Data Understanding
 
@@ -121,7 +123,7 @@ Data berasal dari satu sumber utama dan diintegrasikan antar transaksi, kategori
 - Kategori sesuai pilihan  
 - Data tersimpan dengan aman dan konsisten  
 
----
+
 
 ## 🧹 Data Preparation
 
@@ -131,7 +133,7 @@ Tahapan persiapan data meliputi:
 - Penyaringan data berdasarkan periode waktu  
 - Penyesuaian format untuk visualisasi  
 
----
+
 
 ## 📈 Data Visualization
 
@@ -142,32 +144,32 @@ Dashboard MoneyKu menampilkan:
 - Statistik berdasarkan periode waktu  
 - Ringkasan kondisi keuangan pengguna  
 
----
+
 
 ## 🤖 Modeling
 
 Model analisis digunakan untuk mengidentifikasi pola pengeluaran pengguna dan dapat dikembangkan lebih lanjut untuk memberikan rekomendasi pengelolaan keuangan.
 
----
+
 
 ## 🧪 Evaluation
 
 Evaluasi dilakukan berdasarkan kesesuaian hasil analisis dengan kondisi keuangan pengguna serta kemudahan dalam memahami informasi yang disajikan.
 
----
+
 
 ## 📊 Dashboard
 
 Dashboard **MoneyKu: Catatan Keuanganmu Sehari-hari** menyajikan informasi keuangan secara visual, ringkas, dan mudah dipahami untuk mendukung pengambilan keputusan finansial.
 
----
+
 
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan pembelajaran dan pengembangan aplikasi.  
 Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
 
----
+
 
 ## 👨‍💻 Pengembang
 
@@ -176,7 +178,7 @@ Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
 - ANDHIKA PRATAMA KURNIAWAN ( 1237050117 )
 - FAUZI RIZKI HERMAWAN ( 1237050115 )
 
----
+
 
 ## 🔗 Link Penting
 
@@ -191,3 +193,7 @@ Silakan digunakan dan dikembangkan kembali sesuai kebutuhan.
 
 - 🎥 **Video Presentasi**  
   https://drive.google.com/drive/folders/1BlhjlSAqEVDzi-rQ1a_bQuhIpsn8NKYG?usp=drive_link
+
+
+
+  
